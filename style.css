@@ -1,0 +1,30 @@
+.ui.borderless.top.menu {
+  background: white;
+  padding-top: 30px;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.line.container{
+  padding: 10px;
+}
+
+.ui.center.aligned.container{
+  padding: 20px;
+  color: #58402c;
+  text-align: center;
+  width: 640px;
+  font-family: Arial;
+}
+
+h1 {
+  font-size: 40px !important;
+}
+
+.ui.center.aligned.grid {
+  padding: 40px;
+}
+
+.forimage {
+  padding: 30px;
+}
